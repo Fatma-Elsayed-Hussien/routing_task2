@@ -1,0 +1,14 @@
+.active{
+    color: #1F95A1;
+    text-decoration: none;
+    border-bottom: 2px solid #1F95A1;
+    font-weight: bold;
+}
+.normal{
+    color: #A7A7A7;
+    text-decoration: none;
+}
+.active:hover{
+    text-decoration: none;
+    color:#1F95A1;
+}
